@@ -1,4 +1,12 @@
-stremlit
-scikit-learn
+click
+colorama
+joblib
+nltk
 numpy
+regex
+scikit-learn
 scipy
+setuptools
+threadpoolctl
+tqdm
+wheel
